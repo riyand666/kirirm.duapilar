@@ -1,2 +1,2 @@
-# kirirm.duapilar
+# kirim.duapilar
 Created with CodeSandbox
